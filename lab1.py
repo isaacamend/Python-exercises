@@ -17,3 +17,30 @@ flower = 'tulip'
 flower = "tulip"
 
 # variables can be called anything EXCEPT for keywords: https://www.w3schools.com/python/python_ref_keywords.asp
+# successfully installed Homebrew !
+# failure to set Python 3.8 as default
+
+# snake case
+name_flower = "tulip"
+name_son = "Isaac"
+# variables should be lower case; the only time things are upper case is when it's a Class or when it's a boolean value
+
+# Legal variable names:
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+# Illegal variable names:
+# 2myvar = "John"
+my-var = "John"
+my var = "John"
+
+# Python allows you to assign values to multiple variables in one line:
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
