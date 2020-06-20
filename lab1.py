@@ -35,8 +35,8 @@ myvar2 = "John"
 
 # Illegal variable names:
 # 2myvar = "John"
-my-var = "John"
-my var = "John"
+myvar = "John"
+myvar = "John"
 
 # Python allows you to assign values to multiple variables in one line:
 
@@ -44,3 +44,13 @@ x, y, z = "Orange", "Banana", "Cherry"
 print(x)
 print(y)
 print(z)
+
+print("Hello World") 
+
+print("Hello World")
+
+#this is an error message for wrong print
+# print(Hello World)
+#                 ^
+# SyntaxError: invalid syntax
+
