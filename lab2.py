@@ -38,6 +38,9 @@ for x in friends:
 for x in "Cartagena123!":
     print(x)
 
+#this is called looping through a string
+#even strings are iterable objects, they contain a sequence of characters
+
 #this is the result:
 #C
 # a
