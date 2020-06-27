@@ -77,3 +77,10 @@ for y in friends:
 #An iterator is an object representing a stream of data. It does the iterating over an iterable. You can use an iterator to get the next value or to loop over it. Once, you loop over an iterator, there are no more stream values.
 
 #still completes break string but doesn't complete one after that 
+
+#how to do git pushing
+#make sure to save document before
+#step one click add
+#step two click commit
+#step three click push
+
